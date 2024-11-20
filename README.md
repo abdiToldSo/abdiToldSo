@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm abdiToldSo</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abditoldso&label=Profile%20views&color=0e75b6&style=flat" alt="abditoldso" /> </p>
 
 - 🔭 I’m currently working on [DesmoC](https://github.com/abdiToldSo/DesmoC) & [Joey, a Sequencer for the Koala DAW](https://github.com/abdiToldSo/Joey-Koala-Sequencer-)
-- 🌱 I’m currently learning **Discrete Math, Calc2, & Flutter & Whatever I find interesting 😃**
+- 🌱 I’m currently learning **Discrete Math, Calc2, Vim, Flutter & Whatever I find interesting 😃**
 - 👨‍💻 All of my projects are available at [https://github.com/abdiToldSo](https://github.com/abdiToldSo)
 - 📫 How to reach me **abdit2205@gmail.com**
 
