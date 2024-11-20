@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abditoldso&label=Profile%20views&color=0e75b6&style=flat" alt="abditoldso" /> </p>
 
 - 🔭 I’m currently working on [DesmoC](https://github.com/abdiToldSo/DesmoC) & [Joey, a Sequencer for the Koala DAW](https://github.com/abdiToldSo/Joey-Koala-Sequencer-)
-
-- 🌱 I’m currently learning **Discrete Math & Whatever My Minds Interested In 😁**
-
+- 🌱 I’m currently learning **Discrete Math, Calc2, & Flutter & Whatever I find interesting 😃**
 - 👨‍💻 All of my projects are available at [https://github.com/abdiToldSo](https://github.com/abdiToldSo)
-
 - 📫 How to reach me **abdit2205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
